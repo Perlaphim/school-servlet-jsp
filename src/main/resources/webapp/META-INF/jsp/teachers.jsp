@@ -62,7 +62,7 @@
 
 <%@ include file="footer.jsp"%>
 
-<script src="${pageContext.request.contextPath}/js/teachers.js">
+<script src="${pageContext.request.contextPath}/webapp/js/teachers.js">
 
 </script>
 </body>
